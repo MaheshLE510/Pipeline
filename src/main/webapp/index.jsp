@@ -3,7 +3,7 @@
 <head>
     <title>Color Changing</title>
   </head>
-<body bgcolor=lime> 
+<body> 
 
 <h1>WELCOME TO JENKINS LAB</h1>
 
